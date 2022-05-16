@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #000000;
+}
